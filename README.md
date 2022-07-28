@@ -2,4 +2,10 @@
 Enterprise Data Science Course Project 2022
 
 
-Find the notebook "EDS_Plots" containing the codes for initial submission.
+1. The notebook "EDS_Plots" containing the codes for initial submission, where Covid-19 spread of three pre-selected countries were visualized.
+2. The notebook "Covid-19 Spread and Doubling rate" contains the codes for collecting Covid-19 spread data and analysing it. It also contains codes for Dash visualization of Covid-19 spread, doubling rate and SIR model for all the countries, whose data is collected by John Hopkins University.
+3. The notebook "SIR Modelling" contains the codes for SIR models for all countries in John Hopkins dataset.
+
+The data has been sourced from John Hopkins University [GitHub page](https://github.com/CSSEGISandData/COVID-19).
+
+
